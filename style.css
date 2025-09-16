@@ -1,0 +1,212 @@
+a{
+    text-decoration: none;
+    color:beige;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+.header{
+    display:flex;
+    background-color: rgb(107, 162, 208);
+    padding: 10px;
+    border: 4px solid rgb(255, 227, 87);
+}
+
+.navbar{
+    display:flex;
+    align-items:center;
+    gap: 300px;
+    font-size: 45px ;
+    margin: auto;
+}
+
+.navactive a{
+    color:rgb(255, 227, 87);
+}
+
+.section1 img{
+    width: 1000px;
+    height: 350px;
+    align-content: center;
+    display:flex;
+    margin: 10px;
+    border: 3px solid rgb(255, 227, 87);
+
+}
+
+.section1{
+    margin-left: 100px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+.section1 h1{
+    margin: auto;
+    color:rgb(11, 59, 81);
+    font-size: 80px;
+}
+
+.section1 h2{
+    margin:auto;
+    color: rgb(107, 162, 208);
+    font-size:40px;  
+}
+
+.section1 h4{
+    color:rgb(33, 86, 111);  
+    font-size:  25px; 
+}
+
+.content{
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    gap: 30px ;
+
+}
+.Question h1{
+    font-size:80px;
+    text-align: center;
+    color:rgb(11, 59, 81);
+    gap: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;   
+
+}
+
+.Point1{
+    background-color:rgb(107, 162, 208);
+    border: 4px solid rgb(255, 227, 87);   
+    padding: 10px;
+    width: 400px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    color:rgb(11, 59, 81);
+
+}
+
+.Point1 h2{
+    margin-top: 2px;
+    font-size: 40px;
+    color:rgb(11, 59, 81);
+}
+
+.Point1 img{
+    border-radius: 15px;
+    width: 400px;
+    height: 300px;
+}
+
+.Point2{
+    background-color:rgb(107, 162, 208);
+    border: 4px solid rgb(255, 227, 87);   
+    padding: 10px;
+    width: 400px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    color:rgb(11, 59, 81);
+
+}
+
+.Point2 h2{
+    margin-top: 2px;
+    font-size: 40px;
+    color:rgb(11, 59, 81);
+
+}
+
+.Point2 img{
+    margin-top: 85px;
+    border-radius: 15px;
+    width: 400px;
+    height: 300px;
+}
+
+.Point3{
+    background-color:rgb(107, 162, 208);
+    border: 4px solid rgb(255, 227, 87);   
+    padding: 10px;
+    width: 400px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    color:rgb(11, 59, 81);
+
+
+}
+
+.Point3 h2{
+    margin-top: 2px;
+    font-size: 40px;
+    color:rgb(11, 59, 81);
+}
+
+.Point3 img{
+    border-radius: 15px;
+    width: 400px;
+    height: 300px;
+}
+
+.Me{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    gap: 50px;
+    
+}
+
+.Me h1{
+    display: flex;
+    text-align: left;
+    color:rgb(11, 59, 81);
+    font-size: 80px;
+    margin: auto;
+
+}
+
+.Me h2{
+    font-size: 40px;
+    color:rgb(11, 59, 81);
+    background-color: rgb(107, 162, 208);
+    border: 4px solid rgb(255, 227, 87);   
+    padding: 10px;
+    display: flex;
+}
+
+.Me h3{
+    font-size: 80px;
+    color:rgb(11, 59, 81);
+
+}
+
+.Me img{
+    border-radius: 15px;
+    width: 350px;
+    height: 350px;
+    border: 3px solid rgb(255, 227, 87);
+    
+}
+
+.schedule{
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    gap: 50px;
+    
+}
